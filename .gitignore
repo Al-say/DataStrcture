@@ -1,0 +1,16 @@
+# macOS system files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Compiled files
+*.out
+*.exe
+*.o
+*.obj
+
+# IDE files
+.vscode/
+.idea/
